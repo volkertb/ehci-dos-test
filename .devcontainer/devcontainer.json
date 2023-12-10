@@ -1,4 +1,4 @@
 {
   "name" : "DJGPP cross-compiler toolchain on Debian",
-  "image" : "ghcr.io/volkertb/debian-djgpp:v0.1"
+  "image" : "ghcr.io/volkertb/debian-djgpp:v0.2"
 }
